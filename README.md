@@ -54,4 +54,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 * Streamlit for the interactive web framework.
 * PyPDF2 for PDF text extraction.
 
-Feel free to customize this README file to better suit your project's specific details and requirements!
+Thank You
